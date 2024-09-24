@@ -1,0 +1,16 @@
+{
+    "favorites": [
+        {
+            "name": "Pizza",
+            "description": "My favorite food."
+        },
+        {
+            "name": "Mountains",
+            "description": "I love hiking in the mountains."
+        },
+        {
+            "name": "Anime",
+            "description": "I enjoy watching various anime series."
+        }
+    ]
+}

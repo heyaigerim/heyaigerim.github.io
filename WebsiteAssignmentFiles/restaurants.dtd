@@ -1,0 +1,5 @@
+<!ELEMENT restaurants (restaurant+)>
+<!ELEMENT restaurant (name, location, cuisine)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT cuisine (#PCDATA)>

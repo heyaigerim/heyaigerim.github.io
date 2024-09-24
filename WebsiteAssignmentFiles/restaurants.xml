@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurants>
+    <restaurant>
+        <name>Pizza Place</name>
+        <location>New York</location>
+        <cuisine>Italian</cuisine>
+    </restaurant>
+    <restaurant>
+        <name>Sushi Spot</name>
+        <location>Los Angeles</location>
+        <cuisine>Japanese</cuisine>
+    </restaurant>
+</restaurants>
